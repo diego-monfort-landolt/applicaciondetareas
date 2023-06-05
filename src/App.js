@@ -13,7 +13,6 @@ function App() {
      </div>
      <div className='tareas-lista-principal'>
       <h1>To do List</h1>
-
       <ListaDeTareas />  
      </div>
     </div>
